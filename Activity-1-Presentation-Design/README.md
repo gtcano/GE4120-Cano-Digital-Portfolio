@@ -1,7 +1,6 @@
-<h1 align="center">
-  <span style="color:#D98CA3;">Presentation Design Principles</span>
-</h1>
-
+<p align="center">
+  <img src="activity 1 banner.png" width="100%" alt="Activity 1 - Presentation Design Principles">
+</p
 ## Activity Description
 This activity involved creating a promotional poster for a Free Coffee event. It focused on using visual design principles such as typography, color, contrast, and layout to create an attractive poster that clearly presents event information and catches the audience's attention.
 ## What Have I learned?
