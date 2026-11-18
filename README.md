@@ -3,9 +3,6 @@
 # 💞 GE 4120: 21st Century IT Skills 💞
 
 ### My Digital Portfolio
-
-*LEARNING • CREATIVITY • GROWTH*
-
 </div>
 
 ---
