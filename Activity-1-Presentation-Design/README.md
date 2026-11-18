@@ -9,4 +9,4 @@ Through this activity, I learned how to use different design elements to create 
 I also learned the importance of choosing appropriate colors, fonts, and images to make the design more appealing.
 One challenge was arranging the text and visual elements while making sure that the important details remained clear and readable. 
 I addressed this by organizing the information and adjusting the layout of the poster. 
-In the future, I can apply these design principles when creating other posters, presentations, and digital materials.
+In the future, I can apply these design principles when creating other posters, presentations, and digital materials. 
