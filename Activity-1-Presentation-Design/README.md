@@ -1,5 +1,5 @@
 # Activity  — Presentation Design Principles
-## Activity Descriptio 
+## Activity Description
 This activity involved creating a promotional poster for a Free Coffee event. It focused on using visual design principles such as typography, color, contrast, and layout to create an attractive poster that clearly presents event information and catches the audience's attention.
 ## What Have I Learned?
 Through this activity, I learned how to use different design elements to create a poster that is both attractive and easy to understand. 
