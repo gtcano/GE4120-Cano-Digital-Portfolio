@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#D98CA3;">Activity 1 - Presentation Design Principles</span>
+  <span style="color:#D98CA3;">Presentation Design Principles</span>
 </h1>
 
 ## Activity Description
