@@ -8,6 +8,7 @@ This activity involved creating a promotional poster for a Free Coffee event. It
 <h2> 
   <span style="color:#C77D95;">What Have I Learned?</span>
 <h2>
+
 Through this activity, I learned how to use different design elements to create a poster that is both attractive and easy to understand. 
 I also learned the importance of choosing appropriate colors, fonts, and images to make the design more appealing.
 One challenge was arranging the text and visual elements while making sure that the important details remained clear and readable. 
