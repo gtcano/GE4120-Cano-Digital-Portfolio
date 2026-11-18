@@ -12,11 +12,9 @@
 
 ## 💝 About Me
 
-** Gesile T. Caño **
-
-BS Human Resource Development and Management  
-
-4th Year | Ateneo de Davao University
+# Gesile T. Caño 
+# BS Human Resource Development and Management  
+# 4th Year | Ateneo de Davao University
 
 Hello! Welcome to my digital portfolio. I am an HRDM student who enjoys learning new things and exploring creative ways to present information. This repository showcases my activities, projects, and learning experiences throughout GE 4120.
 
