@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 GE 4120: 21st Century IT Skills 🌸
+# 💞 GE 4120: 21st Century IT Skills 💞
 
 ### My Digital Portfolio
 
@@ -10,9 +10,9 @@
 
 ---
 
-## 🎀 About Me
+## 💝 About Me
 
-**[Your Full Name]**
+** Gesile T. Caño **
 
 BS Human Resource Development and Management  
 
@@ -20,23 +20,7 @@ BS Human Resource Development and Management
 
 Hello! Welcome to my digital portfolio. I am an HRDM student who enjoys learning new things and exploring creative ways to present information. This repository showcases my activities, projects, and learning experiences throughout GE 4120.
 
-## 🌷 Skills and Tools
-
-- Canva
-
-- Google Workspace
-
-- Microsoft Office
-
-- GitHub
-
-- Visual Design and Presentation
-
-## 🦋 Portfolio Activities
-
-| Activity | Description |
-
-|---|---|
+## 💕 Portfolio Activities
 
 | Activity 1 | Presentation Design Principles |
 
@@ -60,4 +44,4 @@ This portfolio represents the knowledge and skills I have gained throughout the 
 
 <div align="center">
 
-🌸 Thank you for visiting my portfolio! 🌸
+💞 Thank you for visiting my portfolio! 💞
