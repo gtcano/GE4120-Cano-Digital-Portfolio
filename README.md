@@ -44,14 +44,14 @@ Here are the skills and digital tools I have explored and practiced through my c
 ## 📂 Portfolio Activities
 
 | # | Activity | Focus / Highlights | Link |
-| :---: | :--- | :---: | :---: |
-| **1** | **Presentation Design Principles** | — | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-1-Presentation-Design) |
-| **2** | **Personal Branding** | — | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-2-Personal-Branding) |
-| **3** | **Infographic and Project Documentation** | — | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-3-Infographic-Project-Documentation-Report) |
-| **4** | **Google Sheets Presentation** | — | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-4-Google-Sheets-Presentation) |
-| **5** | **AI Tools Activity** | — | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-5-AI-Tools-Activity) |
-| **6** | **Making a Website** | — | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-6-Making-a-Website) |
-| **7** | **Resume Generating** | — | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-7-Resume-Generating) |
+| :---: | :--- | :--- | :---: |
+| **1** | **Presentation Design Principles** | Poster design, visual hierarchy, typography, color, contrast, and layout | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-1-Presentation-Design) |
+| **2** | **Personal Branding** | Personal identity, brand elements, visual consistency, and professional self-presentation | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-2-Personal-Branding) |
+| **3** | **Infographic and Project Documentation** | Research, information organization, infographic design, and digital job-matching solutions | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-3-Infographic-Project-Documentation-Report) |
+| **4** | **Google Sheets Presentation** | Spreadsheet functions, formulas, features, collaboration, and practical applications | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-4-Google-Sheets-Presentation) |
+| **5** | **AI Tools Activity** | AI tools and their applications in completing tasks *(no submitted output due to absence)* | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-5-AI-Tools-Activity) |
+| **6** | **Making a Website** | Website creation using AI-powered tools | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-6-Making-a-Website) |
+| **7** | **Resume Generating** | Resume creation and professional presentation | [View](https://github.com/gtcano/GE4120-Cano-Digital-Portfolio/tree/main/Activity-7-Resume-Generating) |
 
 ---
 
