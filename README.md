@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ About Me
+## 🎀 About Me
 
 <!-- Replace profile.jpg with your actual uploaded photo filename in the repo root -->
 <img src="profile.jpg" alt="Gesile T. Caño" width="155" align="right" />
